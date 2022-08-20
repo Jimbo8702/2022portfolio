@@ -1,3 +1,8 @@
+# Summary
+This is my 2022 revision of my personal portfolio Website. I decided to start from scratch instead of taking a prior one. The instructions to run locally are below. Please visit the deployed version here -- https://james-sgarella-portfolio.herokuapp.com/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
